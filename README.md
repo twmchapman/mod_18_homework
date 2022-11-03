@@ -34,8 +34,14 @@
 
 ## Results
 
+### PyChain Genesis
+
 !["PyChain_Genesis"](Images/PyChain%20Genesis.png)
 
+
+### PyChain Ledgers
 !["PyChain_Ledger"](Images/PyChain%20Ledgers.png)
 
+
+### PyChain Validation
 !["PyChain_Validation"](Images/PyChain%20Validation.png)
